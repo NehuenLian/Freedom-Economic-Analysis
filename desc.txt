@@ -14,7 +14,7 @@ Talking about the theme of the project, here are some insights:
 
 -Overall Score is a general score about the continent or country which is better in all parameter.
 
-Europe seems be the continent with the highest economic freedom comparing other regions.
+Europe seems to be the continent with the highest economic freedom comparing other regions.
 European countries lead most tables, specially in the Goverment Integrity, that is, corruption.
 The countries that lead the Overall Score table are mostly small territories and fiscal paradises, or are closely associated with them, like Switzerland, Singapore, or Luxembourg, among others.
 There are no countries of South America in any tables, and the only Countries of the Americas in some tables are United States and Canada
