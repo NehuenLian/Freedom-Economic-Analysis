@@ -1,4 +1,5 @@
 This project is about the economic freedom of several countries in the world, and also the economic freedom of the continents.
+It presents a scenario where a company is looking to expand into a new region, but executives want to ensure that it is in the most favorable environment in terms of trade and economic freedom.
 
 I used automatized functions that looks in the dataframe the parameters that i request when i call the function, and also a manual form.
 An automatized function will be better when we need save time. And a manual function will be better when we want the total control of the code.
